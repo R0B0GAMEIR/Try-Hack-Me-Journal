@@ -1,6 +1,13 @@
 # Try-Hack-Me-Journal
 Showing my progress/screenshots from TryHackMe.
 
+Pre-Security Rooms
+
+[Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+Screenshot: 
+
+Red Team Rooms
+
 [Red Team Fundementals]((https://tryhackme.com/room/redteamfundamentals))
 Screenshot: ![WhatsApp Image 2025-06-29 at 10 35 47_2019b58f](https://github.com/user-attachments/assets/d17806aa-c4c5-4278-9cb8-a5eded199a09)
 

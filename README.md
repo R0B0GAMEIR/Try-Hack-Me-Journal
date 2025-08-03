@@ -4,7 +4,9 @@ Showing my progress/screenshots from TryHackMe.
 Pre-Security Rooms
 
 [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
-Screenshot: 
+Screenshot: ![WhatsApp Image 2025-08-02 at 19 53 34_d315a95b](https://github.com/user-attachments/assets/98ccd11e-5656-4c35-acbf-2a0e315afc64)
+
+
 
 Red Team Rooms
 

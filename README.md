@@ -21,14 +21,14 @@ Screenshot: ![WhatsApp Image 2025-08-02 at 20 02 11_df8941d3](https://github.com
 Screenshot: ![WhatsApp Image 2025-08-03 at 18 28 09_cb02d02d](https://github.com/user-attachments/assets/fde7d4d7-7100-4989-b445-a1f2030bb613)
 
 [OSI Model](https://tryhackme.com/room/osimodelzi)
-Screenshot:![WhatsApp Image 2025-08-03 at 18 28 09_cb02d02d](https://github.com/user-attachments/assets/35c1558d-df16-4ee2-a100-c4e1081fa5b6)
-
+Screenshot:![WhatsApp Image 2025-08-03 at 18 28 22_0460c39f](https://github.com/user-attachments/assets/21f5d658-9820-465e-8347-618050afe57e)
 
 [Packets & Frames](https://tryhackme.com/room/packetsframes)
-Screenshot:
+Screenshot:![WhatsApp Image 2025-08-03 at 18 28 31_e7c7d21b](https://github.com/user-attachments/assets/3bd57b2e-4217-4904-bfce-914e7a11a87e)
 
 [Extending Your Network](https://tryhackme.com/room/extendingyournetwork)
-Screenshot:
+Screenshot:![WhatsApp Image 2025-08-03 at 18 28 41_e3461229](https://github.com/user-attachments/assets/8efbf7d1-84ba-4cc8-8013-f1cbf05fa0d7)
+
 
 ## How The Web Works
 [DNS In Detail](https://tryhackme.com/room/dnsindetail)

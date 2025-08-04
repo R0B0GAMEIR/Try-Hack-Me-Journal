@@ -18,12 +18,17 @@ Screenshot: ![WhatsApp Image 2025-08-02 at 19 58 09_d830c6f3](https://github.com
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 02 11_df8941d3](https://github.com/user-attachments/assets/0406fd6c-e82a-46fc-9ad5-ab99b1e74993)
 
 [Intro to LAN](https://tryhackme.com/room/introtolan)
+Screenshot: ![WhatsApp Image 2025-08-03 at 18 28 09_cb02d02d](https://github.com/user-attachments/assets/fde7d4d7-7100-4989-b445-a1f2030bb613)
 
 [OSI Model](https://tryhackme.com/room/osimodelzi)
+Screenshot:![WhatsApp Image 2025-08-03 at 18 28 09_cb02d02d](https://github.com/user-attachments/assets/35c1558d-df16-4ee2-a100-c4e1081fa5b6)
+
 
 [Packets & Frames](https://tryhackme.com/room/packetsframes)
+Screenshot:
 
 [Extending Your Network](https://tryhackme.com/room/extendingyournetwork)
+Screenshot:
 
 ## How The Web Works
 [DNS In Detail](https://tryhackme.com/room/dnsindetail)

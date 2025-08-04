@@ -13,7 +13,7 @@ Screenshot: ![WhatsApp Image 2025-08-02 at 19 58 09_d830c6f3](https://github.com
 [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 00 01_2c354672](https://github.com/user-attachments/assets/f6ff90d5-fcc9-4b87-ab27-5ec203dc245d)
 
-## Network Fundamentals
+### Network Fundamentals
 [What is Networking?](https://tryhackme.com/room/whatisnetworking)
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 02 11_df8941d3](https://github.com/user-attachments/assets/0406fd6c-e82a-46fc-9ad5-ab99b1e74993)
 

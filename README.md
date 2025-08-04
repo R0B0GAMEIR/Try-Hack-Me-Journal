@@ -2,7 +2,7 @@
 Showing my progress/screenshots from TryHackMe.
 
 # Pre-Security Rooms
-### Introduction to Cybersecurity
+### 1. Introduction to Cybersecurity
 
 [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 Screenshot: ![WhatsApp Image 2025-08-02 at 19 53 34_d315a95b](https://github.com/user-attachments/assets/98ccd11e-5656-4c35-acbf-2a0e315afc64)
@@ -13,7 +13,7 @@ Screenshot: ![WhatsApp Image 2025-08-02 at 19 58 09_d830c6f3](https://github.com
 [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 00 01_2c354672](https://github.com/user-attachments/assets/f6ff90d5-fcc9-4b87-ab27-5ec203dc245d)
 
-### Network Fundamentals
+### 2. Network Fundamentals
 [What is Networking?](https://tryhackme.com/room/whatisnetworking)
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 02 11_df8941d3](https://github.com/user-attachments/assets/0406fd6c-e82a-46fc-9ad5-ab99b1e74993)
 
@@ -30,7 +30,7 @@ Screenshot:![WhatsApp Image 2025-08-03 at 18 28 31_e7c7d21b](https://github.com/
 Screenshot:![WhatsApp Image 2025-08-03 at 18 28 41_e3461229](https://github.com/user-attachments/assets/8efbf7d1-84ba-4cc8-8013-f1cbf05fa0d7)
 
 
-### How The Web Works
+### 3. How The Web Works
 [DNS In Detail](https://tryhackme.com/room/dnsindetail)
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 05 38_e3ccddac](https://github.com/user-attachments/assets/a01c8290-79c2-476c-9eff-7018df35ab06)
 
@@ -43,8 +43,28 @@ Screenshot: ![WhatsApp Image 2025-08-02 at 20 07 15_fcef2300](https://github.com
 [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 08 06_4a0f0d50](https://github.com/user-attachments/assets/3b67dfbf-a8bb-4e18-8a86-fd752ffc3584)
 
+### 4. Linux Fundamentals
+[Linux Fundamentals Part 1]
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 07_ec02db23](https://github.com/user-attachments/assets/8ae82579-4af1-4326-8c28-c4d91714affc)
 
-Red Team Rooms
+[Linux Fundamentals Part 2]
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 20_e9353bd3](https://github.com/user-attachments/assets/a4acd028-955c-4664-b184-599a38e8fcef)
+
+[Linux Fundamentals Part 3]
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 32_f42041cf](https://github.com/user-attachments/assets/07cc0ee9-b274-474c-8f05-ce598a9b426a)
+
+### 5. Windows Fundamentals
+[Windows Fundamentals 1]
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 44_5f628d47](https://github.com/user-attachments/assets/c9f89c5d-65fc-4f7c-a272-f33907aaff16)
+
+[Windows Fundamentals 2]
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 57_575d68df](https://github.com/user-attachments/assets/bb560d16-6481-4007-833b-9c511c17b567)
+
+[Windows Fundamentals 3]
+Screenshot:![WhatsApp Image 2025-08-03 at 18 59 09_57412a74](https://github.com/user-attachments/assets/27ee7fcb-5712-4691-8350-516aeacce9e7)
+
+
+# Red Team Rooms
 
 [Red Team Fundementals](https://tryhackme.com/room/redteamfundamentals)
 Screenshot: ![WhatsApp Image 2025-06-29 at 10 35 47_2019b58f](https://github.com/user-attachments/assets/d17806aa-c4c5-4278-9cb8-a5eded199a09)

@@ -2,7 +2,7 @@
 Showing my progress/screenshots from TryHackMe.
 
 # Pre-Security Rooms
-## Introduction to Cybersecurity
+### Introduction to Cybersecurity
 
 [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 Screenshot: ![WhatsApp Image 2025-08-02 at 19 53 34_d315a95b](https://github.com/user-attachments/assets/98ccd11e-5656-4c35-acbf-2a0e315afc64)
@@ -30,7 +30,7 @@ Screenshot:![WhatsApp Image 2025-08-03 at 18 28 31_e7c7d21b](https://github.com/
 Screenshot:![WhatsApp Image 2025-08-03 at 18 28 41_e3461229](https://github.com/user-attachments/assets/8efbf7d1-84ba-4cc8-8013-f1cbf05fa0d7)
 
 
-## How The Web Works
+### How The Web Works
 [DNS In Detail](https://tryhackme.com/room/dnsindetail)
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 05 38_e3ccddac](https://github.com/user-attachments/assets/a01c8290-79c2-476c-9eff-7018df35ab06)
 

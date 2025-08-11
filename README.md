@@ -65,6 +65,106 @@ Screenshot:![WhatsApp Image 2025-08-03 at 18 59 09_57412a74](https://github.com/
 
 # Cyber Security 101
 
+### Start Your Cyber Security Journey
+[Offensive Security Intro]
+
+[Defensive Security Intro]
+
+[Search Skills]
+
+### Linux Fundamentals
+[Linux Fundamentals Part 1]
+
+[Linux Fundamentals Part 2]
+
+[Linux Fundamentals Part 3]
+
+### Windows and AD Fundamentals
+[Windows Fundamentals 1]
+
+[Windows Fundamentals 2]
+
+[Windows Fundamentals 3]
+
+[Active Directory Basics]
+
+### Command Lines
+[Windows Command Line]
+
+[Windows Powershell]
+
+[Linux Shells]
+
+### Networking
+[Networking Concepts]
+
+[Networking Essentials]
+
+[Networking Core Protocols]
+
+[Networking Secure Protocols]
+
+[Wireshark: The Basics]
+
+[Tcpdump: The Basics]
+
+[Nmap: The Basics]
+
+### Cryptography
+[Cryptography Basics]
+
+[Public Key Cryptography Basics]
+
+[Hashing Basics]
+
+[John the Ripper: The Basics]
+
+### Exploitation Basics
+[Moniker Link (CVE-2024-21413)]
+
+[Metasploit: Introduction]
+
+[Metasploit: Exploitation]
+
+[Metasploit: Meterpreter]
+
+[Blue]
+
+### Web Hacking
+[Web Application Basics]
+
+[JavaScript Essentials]
+
+[SQL Fundamentals]
+
+[Burp Suite: The Basics]
+
+[OWASP Top 10 - 2021]
+
+### Offensive Security Tooling
+[Hydra]
+
+[Gobuster: The Basics]
+
+[Shells Overview]
+
+[SQLMap: The Basics]
+
+### Defensive Security
+[Defensive Security Intro]
+
+[SOC Fundamentals]
+
+[Digital Forensics Fundamentals]
+
+[Incident Response Fundamentals]
+
+[Logs Fundamentals]
+
+### Security Solutions
+[Introduction to SIEM]
+
+[Firewall Fundamentals]
 
 # Red Team Rooms
 

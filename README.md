@@ -73,7 +73,8 @@ Showing my progress/screenshots from TryHackMe.
 ![WhatsApp Image 2025-08-02 at 19 58 09_d830c6f3](https://github.com/user-attachments/assets/1470824e-e561-4ba7-a8bf-328a72765da2)
 
 [Search Skills](https://tryhackme.com/room/searchskills)
-![Search Skills](https://github.com/user-attachments/assets/c68a59c4-2555-4a3a-90a4-bdf5c9626ca1)
+![Search Skills](https://github.com/user-attachments/assets/51981b15-f566-46bc-80ba-7fec2a399e9f)
+
 
 ### Linux Fundamentals
 [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)

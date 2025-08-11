@@ -67,10 +67,13 @@ Screenshot:![WhatsApp Image 2025-08-03 at 18 59 09_57412a74](https://github.com/
 
 ### Start Your Cyber Security Journey
 [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+Screenshot: ![WhatsApp Image 2025-08-02 at 19 53 34_d315a95b](https://github.com/user-attachments/assets/98ccd11e-5656-4c35-acbf-2a0e315afc64)
 
 [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+Screenshot: ![WhatsApp Image 2025-08-02 at 19 58 09_d830c6f3](https://github.com/user-attachments/assets/1470824e-e561-4ba7-a8bf-328a72765da2)
 
-[Search Skills]
+[Search Skills](https://tryhackme.com/room/searchskills)
+Screenshot: ![Search Skills](https://github.com/user-attachments/assets/c68a59c4-2555-4a3a-90a4-bdf5c9626ca1)
 
 ### Linux Fundamentals
 [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)

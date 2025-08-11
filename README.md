@@ -44,127 +44,133 @@ Screenshot: ![WhatsApp Image 2025-08-02 at 20 07 15_fcef2300](https://github.com
 Screenshot: ![WhatsApp Image 2025-08-02 at 20 08 06_4a0f0d50](https://github.com/user-attachments/assets/3b67dfbf-a8bb-4e18-8a86-fd752ffc3584)
 
 ### 4. Linux Fundamentals
-[Linux Fundamentals Part 1]
+[Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 Screenshot:![WhatsApp Image 2025-08-03 at 18 58 07_ec02db23](https://github.com/user-attachments/assets/8ae82579-4af1-4326-8c28-c4d91714affc)
 
-[Linux Fundamentals Part 2]
+[Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 Screenshot:![WhatsApp Image 2025-08-03 at 18 58 20_e9353bd3](https://github.com/user-attachments/assets/a4acd028-955c-4664-b184-599a38e8fcef)
 
-[Linux Fundamentals Part 3]
+[Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 Screenshot:![WhatsApp Image 2025-08-03 at 18 58 32_f42041cf](https://github.com/user-attachments/assets/07cc0ee9-b274-474c-8f05-ce598a9b426a)
 
 ### 5. Windows Fundamentals
-[Windows Fundamentals 1]
+[Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 Screenshot:![WhatsApp Image 2025-08-03 at 18 58 44_5f628d47](https://github.com/user-attachments/assets/c9f89c5d-65fc-4f7c-a272-f33907aaff16)
 
-[Windows Fundamentals 2]
+[Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 Screenshot:![WhatsApp Image 2025-08-03 at 18 58 57_575d68df](https://github.com/user-attachments/assets/bb560d16-6481-4007-833b-9c511c17b567)
 
-[Windows Fundamentals 3]
+[Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 Screenshot:![WhatsApp Image 2025-08-03 at 18 59 09_57412a74](https://github.com/user-attachments/assets/27ee7fcb-5712-4691-8350-516aeacce9e7)
 
 # Cyber Security 101
 
 ### Start Your Cyber Security Journey
-[Offensive Security Intro]
+[Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
-[Defensive Security Intro]
+[Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 
 [Search Skills]
 
 ### Linux Fundamentals
-[Linux Fundamentals Part 1]
+[Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 07_ec02db23](https://github.com/user-attachments/assets/8ae82579-4af1-4326-8c28-c4d91714affc)
 
-[Linux Fundamentals Part 2]
+[Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 20_e9353bd3](https://github.com/user-attachments/assets/a4acd028-955c-4664-b184-599a38e8fcef)
 
-[Linux Fundamentals Part 3]
+[Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 32_f42041cf](https://github.com/user-attachments/assets/07cc0ee9-b274-474c-8f05-ce598a9b426a)
 
 ### Windows and AD Fundamentals
-[Windows Fundamentals 1]
+[Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 44_5f628d47](https://github.com/user-attachments/assets/c9f89c5d-65fc-4f7c-a272-f33907aaff16)
 
-[Windows Fundamentals 2]
+[Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+Screenshot:![WhatsApp Image 2025-08-03 at 18 58 57_575d68df](https://github.com/user-attachments/assets/bb560d16-6481-4007-833b-9c511c17b567)
 
-[Windows Fundamentals 3]
+[Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+Screenshot:![WhatsApp Image 2025-08-03 at 18 59 09_57412a74](https://github.com/user-attachments/assets/27ee7fcb-5712-4691-8350-516aeacce9e7)
 
-[Active Directory Basics]
+[Active Directory Basics](https://tryhackme.com/room/winadbasics)
 
 ### Command Lines
-[Windows Command Line]
+[Windows Command Line](https://tryhackme.com/room/windowscommandline)
 
-[Windows Powershell]
+[Windows Powershell](https://tryhackme.com/room/windowspowershell)
 
-[Linux Shells]
+[Linux Shells](https://tryhackme.com/room/linuxshells)
 
 ### Networking
-[Networking Concepts]
+[Networking Concepts](https://tryhackme.com/room/networkingconcepts)
 
-[Networking Essentials]
+[Networking Essentials](https://tryhackme.com/room/networkingessentials)
 
-[Networking Core Protocols]
+[Networking Core Protocols](https://tryhackme.com/room/networkingcoreprotocols)
 
-[Networking Secure Protocols]
+[Networking Secure Protocols](https://tryhackme.com/room/networkingsecureprotocols)
 
-[Wireshark: The Basics]
+[Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)
 
-[Tcpdump: The Basics]
+[Tcpdump: The Basics](https://tryhackme.com/room/tcpdump)
 
-[Nmap: The Basics]
+[Nmap: The Basics](https://tryhackme.com/room/nmap)
 
 ### Cryptography
-[Cryptography Basics]
+[Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
 
-[Public Key Cryptography Basics]
+[Public Key Cryptography Basics](https://tryhackme.com/room/publickeycrypto)
 
-[Hashing Basics]
+[Hashing Basics](https://tryhackme.com/room/hashingbasics)
 
-[John the Ripper: The Basics]
+[John the Ripper: The Basics](https://tryhackme.com/room/johntheripperbasics)
 
 ### Exploitation Basics
-[Moniker Link (CVE-2024-21413)]
+[Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
 
-[Metasploit: Introduction]
+[Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-[Metasploit: Exploitation]
+[Metasploit: Exploitation](https://tryhackme.com/room/metasploitexploitation)
 
-[Metasploit: Meterpreter]
+[Metasploit: Meterpreter](https://tryhackme.com/room/meterpreter)
 
-[Blue]
+[Blue](https://tryhackme.com/room/blue)
 
 ### Web Hacking
-[Web Application Basics]
+[Web Application Basics](https://tryhackme.com/room/webapplicationbasics)
 
-[JavaScript Essentials]
+[JavaScript Essentials](https://tryhackme.com/room/javascriptessentials)
 
-[SQL Fundamentals]
+[SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals)
 
-[Burp Suite: The Basics]
+[Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
-[OWASP Top 10 - 2021]
+[OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 
 ### Offensive Security Tooling
-[Hydra]
+[Hydra](https://tryhackme.com/room/hydra)
 
-[Gobuster: The Basics]
+[Gobuster: The Basics](https://tryhackme.com/room/gobusterthebasics)
 
-[Shells Overview]
+[Shells Overview](https://tryhackme.com/room/shellsoverview)
 
-[SQLMap: The Basics]
+[SQLMap: The Basics](https://tryhackme.com/room/sqlmapthebasics)
 
 ### Defensive Security
-[Defensive Security Intro]
+[Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 
-[SOC Fundamentals]
+[SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 
-[Digital Forensics Fundamentals]
+[Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals)
 
-[Incident Response Fundamentals]
+[Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals)
 
-[Logs Fundamentals]
+[Logs Fundamentals](https://tryhackme.com/room/logsfundamentals)
 
 ### Security Solutions
-[Introduction to SIEM]
+[Introduction to SIEM](https://tryhackme.com/room/introtosiem)
 
-[Firewall Fundamentals]
+[Firewall Fundamentals](https://tryhackme.com/room/firewallfundamentals)
 
 # Red Team Rooms
 
